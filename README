@@ -1,0 +1,1 @@
+The CodeSniffer tool is a shell script that searchs through SQL source code files looking for matching patterns using regular expressions and help gathering information about procedures and functions call stack and dependacies.
